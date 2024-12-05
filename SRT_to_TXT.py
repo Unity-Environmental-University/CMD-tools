@@ -38,5 +38,3 @@ if __name__ == "__main__":
     # Assuming the SRT file is in the same directory as the script
     srt_file = select_file()
     convert_srt_to_txt(srt_file)
-
- 
