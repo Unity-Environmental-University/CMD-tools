@@ -2,7 +2,6 @@ import os
 import re
 import tkinter as tk
 
-
 def convert_srt_to_txt(srt_filename):
     # Define the output TXT filename
     txt_filename = os.path.splitext(srt_filename)[0] + '.txt'
@@ -28,7 +27,6 @@ def select_file():
     return filename
 
 if __name__ == "__main__":
-
     root = tk.Tk()
     root.withdraw()  # Hide the Tkinter root window
 
