@@ -1,6 +1,6 @@
 # Scripts to Convert SRT Files to TXT Files 
 
-<details open>
+<details>
   <summary>
     <h2>
        Python
@@ -36,7 +36,7 @@ This is a test.
 </details>
 
 
-<details open>
+<details>
   <summary>
     <h2>
        JavaScript
