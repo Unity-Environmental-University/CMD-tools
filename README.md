@@ -3,11 +3,11 @@
 ## Python
 `SRT_to_TXT.py` is a Python script that removes timecodes and sequence numbers from a SubRip Subtitle (SRT) file and outputs a plain text file (TXT) that preserves the subtitle text only. The tkinter library is used for a GUI file selector.
 
-## How to Run Script
-- Download and Install [Python](https://www.python.org/)
+## How to Run Python Script
+- Download and install [Python](https://www.python.org/)
 - Clone this repository
 - `cd` into CMD-Tools
-- Command: `python3 SRT_to_TXT.py`
+- Run command: `python3 SRT_to_TXT.py`
 
 
 ### Example Input (SRT file)
@@ -30,12 +30,12 @@ This is a test.
 ## JavaScript 
 `convertToTXT.js` is JavaScript code that removes timecodes and numbering and preserves subtitle text only in a TXT file.
 
-## How to Run Script
+## How to Run JavaScript with Node
 This script requires Node.js to run. 
 - Download and install [Node](nodejs.org)
 - Clone this repository
 - `cd` into CMD-Tools
-- Command: `node convertSrtToTxt.js path/to/your/subtitle.srt`
+- Run command: `node convertSrtToTxt.js path/to/your/subtitle.srt`
 - If your SRT file is called example.srt and is in the same folder as the script: `node convertSrtToTxt.js example.srt`
 
 ### Example Input (SRT file)
